@@ -1,0 +1,9 @@
+blursed (2 solves)
+
+Sometimes you eat the bear, and sometimes, well, he eats you.
+
+blursed.challenges.ooo 29696
+
+Files:
+
+    blursed dd82ae01e0fd2a465bd4a5bf750dd85d4d286af94ee4e25955eb4768f212cae4

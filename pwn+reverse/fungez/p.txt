@@ -1,0 +1,13 @@
+fungez (0 solves)
+
+read the secret in /flag
+
+fungez.challenges.ooo 10101
+
+Files:
+
+    Image f1f979aabf063d2d0855c52a4c84f2a609cdaa315980651a9d40eb81134dfb44
+    rootfs.img 881cb13a5febc42d6285250f58cbb2c3237182b697fb456fdf3ba8570b7f4f49
+    run.sh ba382489e51635238a89281d9014a716a5d54aeb195760cd00bd1715f39a921f
+    skip_mbind.c 613c1581dbaa635137767e17f0717f0ae19b1641d172ffe0874f17b77ae1ea6f
+    skip_mbind.so 7c5dd87defc82880f57142917ed827d611cbd6fc999f2ed780ae2c06331e43f2

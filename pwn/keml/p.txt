@@ -1,0 +1,9 @@
+keml (1 solves)
+
+introducing TOCTOU resistant memory. flag is in /root/flag
+
+keml.challenges.ooo 5000
+
+Files:
+
+    keml.tgz c852b8b0aec436530372f1caf7ad661197c4b49c779cf6d5676be13de433e3b5

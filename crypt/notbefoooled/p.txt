@@ -1,0 +1,9 @@
+notbefoooled (18 solves)
+
+What's the trick to not be foooled?
+
+notbefoooled.challenges.ooo 5000
+
+Files:
+
+    service.sage 6d8c4057a0fe0f86c9ebfced1787f4be75cbc3084908e3708d5b9e6c1bd3e63e

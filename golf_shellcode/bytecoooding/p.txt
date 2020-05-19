@@ -1,0 +1,11 @@
+bytecoooding (1 solves)
+
+if u thought shellcoding was fun, wait until you try bytecoooding
+
+Threshold starts at 8, and decrements by 1 approximately every 5 hours.
+
+bytecoooding.challenges.ooo 5000
+
+Files:
+
+    bytecode-docker.tar.gz e0a8fceb31e4fdd0a2dfe586909886e4f6db3174b46d4ca60c183019f883ed37

@@ -1,0 +1,9 @@
+ooofs (1 solves)
+
+pwn the vfs read the flag from the real fs /root/flag
+
+ooofs.challenges.ooo 5000
+
+Files:
+
+    ooofs.tar.gz c0a4ba5c1e709e78e24563d141471df4f92090339e7e37a881a451f137c1d267

@@ -1,0 +1,9 @@
+adventure-on-lifebooox (0 solves)
+
+LifebOOOx is a gaming platform built on GoL, which creates a virtual computer inside a virtual life. And OOO brings you one of its most difficult games yet, Adventure. Can you get all the keys and escape the castle?
+
+adventure-on-lifebooox.challenges.ooo 37451
+
+Files:
+
+    lifebooox.zip c844d17451f80037501374946d3f82c0f28a5ed55efab0994355e8dbf7c0f24d

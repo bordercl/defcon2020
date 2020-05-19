@@ -1,0 +1,10 @@
+maybe (0 solves)
+
+Is the flag in there? Maybe
+
+maybe.challenges.ooo 5000
+
+Files:
+
+    maybe 16421799040391d199c8629545da41747c9ea1ac9a30e92a8b7f3eabba1f9617
+    vault.bf 990b79a705b826e999eacd1bf85f551d644715b796cdeef1e4b2f7f9dd4fc36c

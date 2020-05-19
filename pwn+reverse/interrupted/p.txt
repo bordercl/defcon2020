@@ -1,0 +1,11 @@
+interrupted (0 solves)
+
+The Space Vault 9000 helps store your precious data above the cloud, IN SPACE
+
+interrupted.challenges.ooo 5000
+
+Files:
+
+    re_notes.txt 67f5f2bd229063220c2dff14c33bfeeeb2d22633040dfd227549b972d43c25ac
+    service.rom 5c47c459ccf9e8c6cef6a78979d4e2102d3fc0f3b3398b731ca24186eb5b7a24
+    vmips 32a18f9ec860703db84ffce4b87655d05675cfd94f6b9fc43dbea575683357a1

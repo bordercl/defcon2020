@@ -1,0 +1,16 @@
+nooopsled (6 solves)
+
+It's time to slide further into insanity. Threshold starts at 1, and after an 8-hour grace period, ticks up by 1 every 84 seconds.
+
+nooopsled.challenges.ooo 5000
+
+Files:
+
+    Dockerfile 02d317ea2a4d4f0157815c9c62180a739b21838c284b6b9e4aa9053aeef65253
+    banner_fail bc174ee9b6f4a3c2e30034d707db1bc1b9d1cb4e9119f8d87017ded34a2b7840
+    launcher-aarch64 ebcc88cec87c587ce896ca1215a3510cf4eceb4f4c3e781ef8312c5595516c3b
+    launcher-riscv64 4e75d630c0306f0b0574dc54ef2a569b7c1408a5128c5d1805c80e683ac98f45
+    service.conf dc2fc5ae055eefb7a36a0ab25125f5912a5f374c6a420868acc96c77b21a84ec
+    service.py 48ee301f379c2fc8f0882f166c56ee33c1d421496ae89711ceb9b888f6116c0a
+    shuffler 1a01ddbfa146dc88d5c25548f31c689732f99e42e07071bc8bbaf551beee613a
+    wrapper 0d25b91b007aa1ba87e8a059b0b5b2e41947d301b75cac565525636e0401219e

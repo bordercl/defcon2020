@@ -1,0 +1,7 @@
+flag-hunting (23 solves)
+
+You can't see the flag.. but you can follow its track.
+
+Files:
+
+    flag-hunting.tar.bz2 809e958e70885cafd4d2d725b75c7bd5432e02ce6ae8db8d29b0a969cdf05e87

@@ -1,0 +1,10 @@
+supersafecalc (0 solves)
+
+A really safe calculator. The flag is in /flag
+
+supersafecalc.challenges.ooo 6789
+
+Files:
+
+    stub 2ce25c64afbe1aafc9d330644a43bfeb5a9cb39b1fccfa4a1c174699b2b9dfc2
+    supersafecalc.pyc c48725eeb15f6eb2aac76248203fefdfcce0dfbbace2aa57f6e0166b3ec4f1c9
